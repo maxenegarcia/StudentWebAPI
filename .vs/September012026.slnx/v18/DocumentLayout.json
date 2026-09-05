@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\models\\dto\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\models\\dto\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\september012026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\september012026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|c:\\users\\atoy-ph\\desktop\\september012026\\september012026\\models\\dto\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970A21-7394-4613-2691-8F90F9627CE5}|September012026\\September012026.csproj|solutionrelative:september012026\\models\\dto\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "September012026\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "September012026\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:42:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Program.cs",
+              "RelativeDocumentMoniker": "September012026\\Program.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Program.cs",
+              "RelativeToolTip": "September012026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:58:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\DTO\\EditStudentDto.cs",
+              "RelativeDocumentMoniker": "September012026\\Models\\DTO\\EditStudentDto.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\DTO\\EditStudentDto.cs",
+              "RelativeToolTip": "September012026\\Models\\DTO\\EditStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:48:32.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "September012026\\Models\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\Domain\\Student.cs",
+              "RelativeToolTip": "September012026\\Models\\Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:47:52.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Mapper\\StudentMapper.cs",
+              "RelativeDocumentMoniker": "September012026\\Mapper\\StudentMapper.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Mapper\\StudentMapper.cs",
+              "RelativeToolTip": "September012026\\Mapper\\StudentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:47:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "September012026.csproj",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\September012026.csproj",
+              "RelativeDocumentMoniker": "September012026\\September012026.csproj",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\September012026.csproj",
+              "RelativeToolTip": "September012026\\September012026.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T11:44:15.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\DTO\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "September012026\\Models\\DTO\\AddStudentDto.cs",
+              "ToolTip": "C:\\Users\\Atoy-PH\\Desktop\\September012026\\September012026\\Models\\DTO\\AddStudentDto.cs",
+              "RelativeToolTip": "September012026\\Models\\DTO\\AddStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:48:05.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
